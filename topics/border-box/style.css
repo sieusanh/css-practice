@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    background-color: darkorchid;
+    padding: 16px;
+    border: 2px solid orange;
+    box-sizing: border-box;
+}
+
+.box {
+    box-sizing: unset;
+}
